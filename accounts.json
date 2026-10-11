@@ -1,0 +1,14 @@
+{
+    "99177": {
+        "name": "Ben",
+        "pin": "1234",
+        "balance": 20000.0,
+        "transactions": []
+    },
+    "54320": {
+        "name": "Klein",
+        "pin": "4321",
+        "balance": 15000.0,
+        "transactions": []
+    }
+}
